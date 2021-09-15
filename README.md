@@ -1,14 +1,3 @@
----
-language: fr
-license: mit
-tags:
-- roberta
-- language-model
-- wo
-- wolof 
-- french
----
-
 # Soraberta: Unsupervised Language Model Pre-training for Wolof
 
 **Soraberta** is pretrained roberta-base model on wolof language  . Roberta was introduced in [this paper](https://arxiv.org/abs/1907.11692)
