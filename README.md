@@ -6,7 +6,7 @@
 
 | Model name | Number of layers | Attention Heads | Embedding Dimension | Total Parameters |
 | :------:       |   :---: | :---: | :---: | :---: |
-| `soraberta-base` | 6    | 12   | 514   | 18 M |
+| `soraberta-base` | 6    | 12   | 514   | 83 M |
  
 
 
